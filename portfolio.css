@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(150, 123, 123);
+}
+#about3{
+    height: 250px;
+    border-radius: 50%;
+}
+#about{
+    background-color: honeydew;
+    padding: 50px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 400px;
+    margin-right: 800px;
+    margin-left:100px;
+    border-radius: 30px;
+}
+
+#contact{
+    background-color: honeydew;
+    padding: 50px;
+    text-align: center;
+    margin-top: -1085px;
+    margin-bottom: 400px;
+    margin-right: 100px;
+    margin-left:800px;
+    border-radius: 30px;
+}
+#contact1 , #experience{
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+#experience{
+    background-color: honeydew;
+    padding: 50px;
+    text-align: center;
+    margin-top: -300px;
+    margin-bottom: 400px;
+    margin-right: 100px;
+    margin-left:800px;
+    border-radius: 30px;
+}
